@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="gemsXSL.xsl"?>
+
+<gems
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="gemsXSD.xsd">
+
+<gem id="1">
+        <name>diamond</name>
+        <preciousness>PRECIOUS</preciousness>
+        <origin>USA</origin>
+        <visual>
+            <color>white</color>
+            <transparency>70</transparency>
+            <engraving>8</engraving>
+        </visual>
+        <value>2</value>
+
+    </gem>
+    <gem id="2">
+        <name>ruby</name>
+        <preciousness>SEMIPRECIOUS</preciousness>
+        <origin>Poland</origin>
+        <visual>
+            <color>red</color>
+            <transparency>40.5</transparency>
+            <engraving>5</engraving>
+        </visual>
+        <value>3</value>
+
+    </gem>
+    <gem id="3">
+        <name>sapphire</name>
+        <preciousness>PRECIOUS</preciousness>
+        <origin>China</origin>
+        <visual>
+            <color>blue</color>
+            <transparency>69</transparency>
+            <engraving>13</engraving>
+        </visual>
+        <value>3</value>
+
+    </gem>
+</gems>
